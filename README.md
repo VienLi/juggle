@@ -11,11 +11,6 @@
 4. 拖拽布局后台实现
 5. 复交互类型页面的配置
 
-|                                      学习讨论小组🍻                                      |   打赏（赠送学习资料：[webNote](https://github.com/Cc-Edit/webNote)） :confetti_ball:    | 
-|:----------------------------------------------------------------------------------:|:---------------------------------------------------------------------:| 
-| ![wechat.png](https://github.com/Cc-Edit/Cc-Edit/blob/main/public/CcClip.png) |     ![img.png](https://github.com/Cc-Edit/Cc-Edit/blob/main/public/img.png)  |
-
-
 ## 介绍
     阿里推出飞冰来进行页面搭建，但是飞冰的物料开发不是想象中的简单。   
     开发此项目，可以直接使用市面上线程的组件库（iview, vux, Element），也可以基于现有组件库封装自定义组件。  
